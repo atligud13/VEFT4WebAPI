@@ -1,0 +1,5 @@
+C:\Users\Atli\Documents\HR\Haust2015\Vefþjónustur\Verkefni\Week05\CoursesAPI.Models\bin\Debug\CoursesAPI.Models.dll
+C:\Users\Atli\Documents\HR\Haust2015\Vefþjónustur\Verkefni\Week05\CoursesAPI.Models\bin\Debug\CoursesAPI.Models.pdb
+C:\Users\Atli\Documents\HR\Haust2015\Vefþjónustur\Verkefni\Week05\CoursesAPI.Models\obj\Debug\CoursesAPI.Models.csprojResolveAssemblyReference.cache
+C:\Users\Atli\Documents\HR\Haust2015\Vefþjónustur\Verkefni\Week05\CoursesAPI.Models\obj\Debug\CoursesAPI.Models.dll
+C:\Users\Atli\Documents\HR\Haust2015\Vefþjónustur\Verkefni\Week05\CoursesAPI.Models\obj\Debug\CoursesAPI.Models.pdb

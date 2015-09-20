@@ -1,0 +1,12 @@
+C:\Users\Atli\Documents\HR\Haust2015\Vefþjónustur\Verkefni\Week05\CoursesAPI.Services\bin\Debug\CoursesAPI.Services.dll.config
+C:\Users\Atli\Documents\HR\Haust2015\Vefþjónustur\Verkefni\Week05\CoursesAPI.Services\bin\Debug\CoursesAPI.Services.dll
+C:\Users\Atli\Documents\HR\Haust2015\Vefþjónustur\Verkefni\Week05\CoursesAPI.Services\bin\Debug\CoursesAPI.Services.pdb
+C:\Users\Atli\Documents\HR\Haust2015\Vefþjónustur\Verkefni\Week05\CoursesAPI.Services\bin\Debug\CoursesAPI.Models.dll
+C:\Users\Atli\Documents\HR\Haust2015\Vefþjónustur\Verkefni\Week05\CoursesAPI.Services\bin\Debug\EntityFramework.dll
+C:\Users\Atli\Documents\HR\Haust2015\Vefþjónustur\Verkefni\Week05\CoursesAPI.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Atli\Documents\HR\Haust2015\Vefþjónustur\Verkefni\Week05\CoursesAPI.Services\bin\Debug\CoursesAPI.Models.pdb
+C:\Users\Atli\Documents\HR\Haust2015\Vefþjónustur\Verkefni\Week05\CoursesAPI.Services\bin\Debug\EntityFramework.xml
+C:\Users\Atli\Documents\HR\Haust2015\Vefþjónustur\Verkefni\Week05\CoursesAPI.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Atli\Documents\HR\Haust2015\Vefþjónustur\Verkefni\Week05\CoursesAPI.Services\obj\Debug\CoursesAPI.Services.csprojResolveAssemblyReference.cache
+C:\Users\Atli\Documents\HR\Haust2015\Vefþjónustur\Verkefni\Week05\CoursesAPI.Services\obj\Debug\CoursesAPI.Services.dll
+C:\Users\Atli\Documents\HR\Haust2015\Vefþjónustur\Verkefni\Week05\CoursesAPI.Services\obj\Debug\CoursesAPI.Services.pdb
