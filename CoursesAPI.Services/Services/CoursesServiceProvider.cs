@@ -53,7 +53,7 @@ namespace CoursesAPI.Services.Services
 
             if(registration != null)
             {
-                throw new AppValidationException("TEACHER_ALREADY_ASSIGNED_TO_COURSE");
+                throw new AppValidationException("PERSON_ALREADY_REGISTERED_TEACHER_IN_COURSE");
             }
 
             // Check if model's type is a main teacher, if so and there already is a main teacher
@@ -66,7 +66,7 @@ namespace CoursesAPI.Services.Services
                 {
                     if(teacher.Type == TeacherType.MainTeacher)
                     {
-                        throw new AppValidationException("COURSE_ALREADY_HAS_MAIN_TEACHER");
+                        throw new AppValidationException("COURSE_ALREADY_HAS_A_MAIN_TEACHER");
                     }
                 }
             }
@@ -130,6 +130,11 @@ namespace CoursesAPI.Services.Services
                               TemplateID = course.ct.CourseID,
                               MainTeacher = (teacher == null ? "" : teacher.p.Name)
                           }).ToList();
+
+            if(result == null)
+            {
+                result = new List<CourseInstanceDTO>();
+            }
 
             return result;
         }

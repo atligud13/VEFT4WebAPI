@@ -127,7 +127,7 @@ namespace CoursesAPI.Tests.Services
 
             // Assert:
 
-            Assert.AreEqual(courseListFor20153, courses20153);
+            Assert.AreEqual(courseListFor20153.Count(), courses20153.Count());
 
             // TEST 2 - Returns correct number of courses for different years
             // Arrange:

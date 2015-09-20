@@ -1,0 +1,12 @@
+C:\Users\Atli\Documents\HR\Haust2015\Vefþjónustur\Verkefni\Week05\CoursesAPI.Tests\bin\Debug\CoursesAPI.Tests.dll
+C:\Users\Atli\Documents\HR\Haust2015\Vefþjónustur\Verkefni\Week05\CoursesAPI.Tests\bin\Debug\CoursesAPI.Tests.pdb
+C:\Users\Atli\Documents\HR\Haust2015\Vefþjónustur\Verkefni\Week05\CoursesAPI.Tests\bin\Debug\CoursesAPI.Models.dll
+C:\Users\Atli\Documents\HR\Haust2015\Vefþjónustur\Verkefni\Week05\CoursesAPI.Tests\bin\Debug\CoursesAPI.Services.dll
+C:\Users\Atli\Documents\HR\Haust2015\Vefþjónustur\Verkefni\Week05\CoursesAPI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Atli\Documents\HR\Haust2015\Vefþjónustur\Verkefni\Week05\CoursesAPI.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Atli\Documents\HR\Haust2015\Vefþjónustur\Verkefni\Week05\CoursesAPI.Tests\bin\Debug\CoursesAPI.Models.pdb
+C:\Users\Atli\Documents\HR\Haust2015\Vefþjónustur\Verkefni\Week05\CoursesAPI.Tests\bin\Debug\CoursesAPI.Services.pdb
+C:\Users\Atli\Documents\HR\Haust2015\Vefþjónustur\Verkefni\Week05\CoursesAPI.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Atli\Documents\HR\Haust2015\Vefþjónustur\Verkefni\Week05\CoursesAPI.Tests\obj\Debug\CoursesAPI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Atli\Documents\HR\Haust2015\Vefþjónustur\Verkefni\Week05\CoursesAPI.Tests\obj\Debug\CoursesAPI.Tests.dll
+C:\Users\Atli\Documents\HR\Haust2015\Vefþjónustur\Verkefni\Week05\CoursesAPI.Tests\obj\Debug\CoursesAPI.Tests.pdb
